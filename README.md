@@ -7,7 +7,7 @@
 
 ### AT THE MOMENT
 - 🌐 I'm a Front-End Developer at [DEseip](https://deseip.com)
-- 🔭 I'm working on [Netychords](https://github.com/matteodf/Netychords), a polyphonic Digital Music Instrument (DMI) controlled with eye tracking and head tracking techniques. This project was part of my Bachelor's Thesis.
+- 🔭 I'm working on [Netychords](https://github.com/matteodf/Netychords), a polyphonic Digital Music Instrument (DMI) controlled with eye tracking and head tracking techniques. This project was part of my Bachelor's Thesis, and was co-developed with [Nicola Davanzo](https://github.com/neeqstock) as a fork of [Netytar](https://github.com/LIMUNIMI/Netytar).
 
 ### BIO
 
