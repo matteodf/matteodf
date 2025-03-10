@@ -5,13 +5,13 @@
 [![](https://img.shields.io/badge/-Website-%23181717?style=flat-square&logo=chainlink)](https://matteodefilippis.com)
 
 ### AT THE MOMENT
-- 🌐 I'm a Front-End Engineer at [DEside](https://deside.it)
+- 🌐 I'm a Front-End Engineer at [Freedome](https://freedome.it)
 - 🔭 I built [Netychords](https://github.com/matteodf/Netychords), a polyphonic Digital Music Instrument (DMI) controlled with eye tracking and head tracking techniques. This project was part of my Bachelor's Thesis, and was co-developed with [Nicola Davanzo](https://github.com/neeqstock) as a fork of [Netytar](https://github.com/LIMUNIMI/Netytar).
 - 🌱 I contribute to some open source projects, such as [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), [Astro SEO](https://github.com/jonasmerlin/astro-seo), [HTML to Slack Blocks](https://github.com/matteodf/html-to-slack) and [CSV to ACF](https://github.com/matteodf/csv-to-acf).
 
 ### BIO
 
-- 💻 I previously worked as a [freelancer Full-Stack Developer](https://matteodefilippis.com)
+- 💻 I previously worked as a [freelancer Full-Stack Developer](https://matteodefilippis.com) and as a Front-End Engineer and IT Manager at [DEside](https://deside.it)
 - 📜 I got a Bachelor's Degree in Sound and Music Computing at the University of Milan (Italy), and I'm currently pursuing my Master's Degree in Computer Science.
 - 🎸 I love writing music and sometimes I publish them on [Spotify](https://open.spotify.com/artist/04HMEiurIQr7g23lAWdMWF?si=GIfu8TmQTNyt27wL4Zh-eQ)
 - 🥁 I also love playing drums, bass, ukulele and other instruments
